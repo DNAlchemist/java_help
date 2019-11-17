@@ -10,7 +10,6 @@ public class Vector {
         this.z = z;
     }
 
-
     public void print() {
         System.out.println("x= " + x);
         System.out.println("y= " + y);
